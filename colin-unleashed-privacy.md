@@ -4,7 +4,7 @@ Last updated: 29 September 2026
 
 **Overview:** Colin Unleashed is an 18+ horror parody version of Colin. Contains disturbing imagery, dark humour, and jump-scare style audio. This version is for adults only (18+). No login, no account, offline play.
 
-**Age Rating:** This app is rated 18+ / Mature. It is not intended for children. You must be 18 or older to install.
+**Age Rating:** This app is rated PEGI 16 / Mature 16+. Contains horror imagery and dark humour. Not intended for children under 16.
 
 **Data Collection:** We do NOT collect, store, or share any personal data. No name, email, location, contacts, photos. No analytics. No ads. No tracking.
 
